@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alice Johnson",
+    "age": 20,
+    "grade": "A",
+    "subjects": ["Math", "Science", "English"]
+  },
+  {
+    "name": "Bob Smith",
+    "age": 22,
+    "grade": "B",
+    "subjects": ["History", "Math", "Physics"]
+  },
+  {
+    "name": "Charlie Brown",
+    "age": 21,
+    "grade": "A",
+    "subjects": ["Biology", "Chemistry", "Math"]
+  }
+]
